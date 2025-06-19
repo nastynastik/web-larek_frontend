@@ -393,7 +393,9 @@ yarn build
 - `payment:` string;
 - `email:` string;
 `phone:` string;
-###IState Cостояние валидации.
+
+###IState 
+Cостояние валидации.
 
 **Свойства:**
 
