@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Проектная работа "Веб-ларек"
 
 Стек: HTML, SCSS, TS, Webpack
@@ -40,3 +41,6 @@ npm run build
 ```
 yarn build
 ```
+=======
+# web-larek_frontend
+>>>>>>> 152f8e885ca9c22489c9ce5f2f18f4f1f104d2a0
