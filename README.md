@@ -394,7 +394,7 @@ yarn build
 - `email:` string;
 `phone:` string;
 
-###IState 
+### IState 
 Cостояние валидации.
 
 **Свойства:**
